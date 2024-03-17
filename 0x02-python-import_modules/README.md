@@ -1,1 +1,1 @@
-Solution to task to python import modules @ Alx.
+Solution to task on python import modules @ Alx.
